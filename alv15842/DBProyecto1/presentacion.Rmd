@@ -295,5 +295,5 @@ kable(resQuery, caption = "Resultado de la Consulta:")
 
 Para realizar la comparación entre las compañías aéreas en cada una de las Consultas se realizó una [Tabla de Comparación](https://drive.google.com/file/d/1mhX_aI6NyXxuO5ArnBBBoHL4gFd8DJdo/view?usp=sharing), en la cual se colocó cada aerolínea según su resultado. De esta manera se pudo observar su comportamiento, respecto a la consistencia de sus resultados comparadas contra las otras líneas aéreas.
 
-Debido a que, en la Tabla de Comparación se puede notar que _Southwest Airlines Co._ siempre se encuentra en el en los puestos más altos y que en las categorías más importantes está en los primeros lugares, se recomienda realizar la inversión en esta compañía. Por lo que la respuesta a la pregunta de investigación **¿qué aerolínea se desempeñó mejor durante el 2017-2018?** es  _Southwest Airlines Co._.
+Debido a que, en la Tabla de Comparación se puede notar que _Delta Air Lines Inc._ siempre se encuentra en el en los puestos más altos y que en las categorías más importantes está en los primeros lugares, se recomienda realizar la inversión en esta compañía. Por lo que la respuesta a la pregunta de investigación **¿qué aerolínea se desempeñó mejor durante el 2017-2018?** es  _Delta Air Lines Inc._.
 
