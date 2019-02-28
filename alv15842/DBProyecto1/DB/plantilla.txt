@@ -1,0 +1,18 @@
+###Pregunta 
+#### 
+
+
+
+```sql
+
+```
+
+```{r Pregunta, echo=FALSE, message=FALSE, warning=FALSE}
+query <- ""
+
+#res <- dbSendQuery(cnn, query)
+#resQuery<-dbFetch(res)
+
+#kable(resQuery, caption = "Resultado de la Consulta:")
+
+```
